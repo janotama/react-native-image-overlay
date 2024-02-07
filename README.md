@@ -1,3 +1,4 @@
+---
 <h1 align="center">
     react-native-image-overlay
 </h1>
